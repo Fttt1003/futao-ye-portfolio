@@ -10,9 +10,9 @@ MSc student in Metaverse Technology at The Hong Kong Polytechnic University, wit
 
 ### MovieMind — Movie Recommendation Desktop App
 
-A Python desktop app for browsing movies and receiving personalised recommendations. I worked on the SQLite data layer, including user IDs and storage and retrieval of user-added movie links. The app uses PySide6 for its interface and NumPy for its recommendation module.
+A Python desktop prototype for personalised movie recommendations. I worked on the SQLite data layer, including user IDs and storage and retrieval of user-added movie links. The included PySide6 demo uses fictional movies and ratings to show the NumPy recommendation flow.
 
-**[Project case study](projects/moviemind.md)** · [Source repository](https://github.com/mtbasktm/MovieMind) · [My commits](https://github.com/mtbasktm/MovieMind/commits/main/?author=Fttt1003)
+**[Project case study](projects/moviemind.md)** · **[Source code and run instructions](projects/moviemind/)** · [My commits](https://github.com/mtbasktm/MovieMind/commits/main/?author=Fttt1003)
 
 ### Movie Catalogue and Favourites Backend
 
@@ -52,4 +52,4 @@ Building useful interactive prototypes, connecting application interfaces to bac
 
 ## About this portfolio
 
-This repository presents project documentation and an evidence map, rather than a hosted application. The movie source has been inspected, but no successful deployment, performance benchmark or recommendation-quality result is claimed. RuoYi provides the underlying application framework; its authentication, administration scaffolding and generated components are not presented as original work.
+This repository contains project case studies and the MovieMind desktop demo. The Java movie catalogue case study is based on a source review. RuoYi provides that application's authentication, administration scaffolding and generated components.

@@ -2,7 +2,9 @@
 
 **Python · SQLite · PySide6 · NumPy**
 
-MovieMind is a desktop prototype for browsing movies, recording preferences and generating personalised recommendations. The PySide6 interface connects to a Python backend, with SQLite for persistence and a NumPy-based recommendation module.
+MovieMind is a desktop prototype for personalised movie recommendations. The PySide6 interface connects to a Python backend, with SQLite for persistence and a NumPy module that estimates scores from movie-to-movie cosine similarity.
+
+**[Browse the source code and run the demo](moviemind/)**
 
 ## My contribution
 
@@ -17,4 +19,4 @@ MovieMind is a desktop prototype for browsing movies, recording preferences and 
 - [User ID assignment](https://github.com/mtbasktm/MovieMind/commit/1ec33116eebce1d3cd7b43f43744ea4c3f32c992)
 - [All my MovieMind commits](https://github.com/mtbasktm/MovieMind/commits/main/?author=Fttt1003)
 
-The contribution summary is based on the linked commits. The desktop app was reviewed through its source and commit history.
+The portfolio version uses fictional film titles and ratings. On launch, it creates a fresh SQLite database in a temporary directory and shows recommendations for a demo profile. The original commits above document my contributions to the upstream project.
