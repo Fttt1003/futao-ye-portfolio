@@ -8,6 +8,12 @@ MSc student in Metaverse Technology at The Hong Kong Polytechnic University, wit
 
 ## Selected projects
 
+### MovieMind — Movie Recommendation Desktop App
+
+A Python desktop app for browsing movies and receiving personalised recommendations. I worked on the SQLite data layer, including user IDs and storage and retrieval of user-added movie links. The app uses PySide6 for its interface and NumPy for its recommendation module.
+
+**[Project case study](projects/moviemind.md)** · [Source repository](https://github.com/mtbasktm/MovieMind) · [My commits](https://github.com/mtbasktm/MovieMind/commits/main/?author=Fttt1003)
+
 ### Movie Catalogue and Favourites Backend
 
 A movie application project built on RuoYi, using Java, Spring Boot and MyBatis. The available source implements movie search and filtering, actor/director relationships, favourites, pagination, and Excel export. The accompanying administration interface uses Vue 2 and Element UI.

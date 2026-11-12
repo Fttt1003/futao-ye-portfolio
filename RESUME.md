@@ -13,6 +13,14 @@ Average: 84.1/100
 
 ## Selected projects
 
+**MovieMind — SQLite Data Layer**
+
+Python, SQLite, PySide6
+
+- Updated the schema and data access for user-added movie links, including per-user lookup by movie name or ID.
+- Adjusted user ID assignment so the first account starts at ID 1.
+- [Project case study](projects/moviemind.md) · [My commits](https://github.com/mtbasktm/MovieMind/commits/main/?author=Fttt1003)
+
 **Movie Application — Backend Development**  
 Java, Spring Boot, MyBatis; RuoYi-based application
 
